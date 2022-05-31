@@ -1,4 +1,4 @@
-# minitest
+# Minitest integration with Lambdatest
 
 
 We created this sample to explain Integration of minitest with Lambdatest
