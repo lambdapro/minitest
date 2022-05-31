@@ -20,8 +20,10 @@ set LT_ACCESS_KEY="YOUR ACCESS KEY"`
 
 ```
 To install all needed gems
-    $ bundle install
 
+    $ bundle install
+    
+    $ gem install selenium-webdriver -v 3.14
 
 ```
 
@@ -30,7 +32,6 @@ To install all needed gems
 ```
 To run single test
     $ rake minitest
-
 
 ```
 ## About LambdaTest
