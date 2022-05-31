@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'rake'
+gem 'parallel'
+gem 'json'
+gem 'selenium-webdriver','3.142.7'

@@ -1,0 +1,14 @@
+[
+    {
+      "browserName": "firefox",
+      "version": "latest"
+    },
+    {
+      "browserName": "chrome",
+      "version": "latest"
+    },
+    {
+      "browserName": "safari",
+      "version": "latest"
+    }
+  ]
